@@ -8,7 +8,7 @@ Convert your Sigs in Style
 * Copy Converted Sigs right to your Clipboard
 
 ## Preview
-![ASC]
+![ASC](https://user-images.githubusercontent.com/72362390/159490906-ec6bc572-444a-44d4-9d88-b14b093ae13d.png)
 
 ## NOTE
 * Some Bugs may be present. This was done in 2 hours.
